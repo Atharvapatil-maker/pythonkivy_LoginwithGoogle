@@ -1,4 +1,4 @@
-# pythonkivy_LoginwithGoogle
+# pythonkivy_Login_with_Google
 Login_With_Google
 <p>
   <dl>
